@@ -1,0 +1,31 @@
+F:\RISHI_PRJ\.NET CORE\Test 2\bin\Debug\net8.0\appsettings.Development.json
+F:\RISHI_PRJ\.NET CORE\Test 2\bin\Debug\net8.0\appsettings.json
+F:\RISHI_PRJ\.NET CORE\Test 2\bin\Debug\net8.0\Test 2.staticwebassets.runtime.json
+F:\RISHI_PRJ\.NET CORE\Test 2\bin\Debug\net8.0\Test 2.exe
+F:\RISHI_PRJ\.NET CORE\Test 2\bin\Debug\net8.0\Test 2.deps.json
+F:\RISHI_PRJ\.NET CORE\Test 2\bin\Debug\net8.0\Test 2.runtimeconfig.json
+F:\RISHI_PRJ\.NET CORE\Test 2\bin\Debug\net8.0\Test 2.dll
+F:\RISHI_PRJ\.NET CORE\Test 2\bin\Debug\net8.0\Test 2.pdb
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\Test 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\Test 2.AssemblyInfoInputs.cache
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\Test 2.AssemblyInfo.cs
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\Test 2.csproj.CoreCompileInputs.cache
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\Test 2.MvcApplicationPartsAssemblyInfo.cache
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\Test 2.RazorAssemblyInfo.cache
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\Test 2.RazorAssemblyInfo.cs
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\Test 2.sourcelink.json
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\staticwebassets.build.json
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\staticwebassets.development.json
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\staticwebassets\msbuild.Test 2.Microsoft.AspNetCore.StaticWebAssets.props
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\staticwebassets\msbuild.build.Test 2.props
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Test 2.props
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Test 2.props
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\staticwebassets.pack.json
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\scopedcss\bundle\Test 2.styles.css
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\scopedcss\projectbundle\Test 2.bundle.scp.css
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\Test 2.dll
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\refint\Test 2.dll
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\Test 2.pdb
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\Test 2.genruntimeconfig.cache
+F:\RISHI_PRJ\.NET CORE\Test 2\obj\Debug\net8.0\ref\Test 2.dll
